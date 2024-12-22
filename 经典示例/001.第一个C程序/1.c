@@ -1,6 +1,8 @@
 /* The first C programme */
-#include <stdio.h>				/* ������׼�������ͷ�ļ� */
-main()						/* ������ */
+#include <stdio.h>				/* 包含标准输入输出头文件 */
+main()						/* 主函数 */
 {
-		printf("Hello World!\n");	/* ��ӡ�����Ϣ */
+		printf("Hello World!\n");	/* 打印输出信息 */
 }
+
+	//对这个文件进行修改尝试
